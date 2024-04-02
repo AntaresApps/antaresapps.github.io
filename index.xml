@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antares</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Antares</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>//localhost:1313/blog/post-1/</link>
+      <link>/blog/post-1/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/post-1/</guid>
+      <guid>/blog/post-1/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
     </item>
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>//localhost:1313/blog/post-2/</link>
+      <link>/blog/post-2/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/post-2/</guid>
+      <guid>/blog/post-2/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
     </item>
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>//localhost:1313/blog/post-3/</link>
+      <link>/blog/post-3/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/post-3/</guid>
+      <guid>/blog/post-3/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
     </item>
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>//localhost:1313/blog/post-4/</link>
+      <link>/blog/post-4/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/post-4/</guid>
+      <guid>/blog/post-4/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
     </item>
     <item>
       <title>Elements</title>
-      <link>//localhost:1313/elements/</link>
+      <link>/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/elements/</guid>
+      <guid>/elements/</guid>
       <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
     </item>
     <item>
       <title>How to engage</title>
-      <link>//localhost:1313/how-to-engage/</link>
+      <link>/how-to-engage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/how-to-engage/</guid>
+      <guid>/how-to-engage/</guid>
       <description>Introduction Plans Bronze plan: Perfect for when the IT stack has been created in house License to use the antares server as a Custom of the Shelf (COTS), billed by container.</description>
     </item>
     <item>
       <title>Leonardo Belen</title>
-      <link>//localhost:1313/authors/leonardo-belen/</link>
+      <link>/authors/leonardo-belen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/leonardo-belen/</guid>
+      <guid>/authors/leonardo-belen/</guid>
       <description>Lawyer and MBA specialized in tax adminitration with multiple knowledge areas.</description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>//localhost:1313/privacy-policy/</link>
+      <link>/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/privacy-policy/</guid>
+      <guid>/privacy-policy/</guid>
       <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     <item>
